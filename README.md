@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine learning & Neural networks**
 
-- 💬 Ask me about **coding and electronics**
+- 💬 Ask me about **embedded systems**
 
 - 📫 How to reach me **ahmadtarique2004@gmail.com**
 
